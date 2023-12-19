@@ -1,0 +1,71 @@
+*{
+    background-color: #F7ECDE;
+}
+
+#mo{
+    background: red;
+    color: blue;
+}
+
+ .bookmark-body {
+    
+    color: #050505;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: dotted 2px #0c0101;
+}
+
+ .bookmark {
+    
+    color: #050505;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: dotted 2px #0c0000;
+}
+.moaz {
+    color: white;
+    background-color: rgb(138, 158, 35);
+    border: none;
+    border-radius: 4px;
+    padding: 6px;
+}
+
+.semi-background {
+    display: inline-block;
+   
+    background: linear-gradient(to top, #fec260 50%, rgb(247, 236, 222) 0%);
+    background-size: 100% 100%;
+    background-position: bottom;
+    transition: background-size 0.3s ease;
+    font-size: 50px;
+    
+}
+
+.semi-background:hover {
+      background-size: 100% 130%;
+  }
+
+
+  .sh{
+    background: linear-gradient(to right, #3ca55c, #b5ac49);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.sl{
+    color: rgb(179, 172, 73);
+}
+.ls{
+      color: rgb(65,166,92);
+    
+  }
+
+.kj{
+    color: white;
+    background-color: rgb(211, 8, 32);
+    
+}
+.pq{
+    color: white;
+    background-color: rgb(138, 158, 35);
+    
+}
